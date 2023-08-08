@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.button {
+  background-color: #382f5a;
+  height: 40px;
+  width: 150px;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  border-style: solid;
+  border-color: #c4c4c4;
+  border-width: 1px;
+  border-radius: 5px;
+  margin: 5px;
+}

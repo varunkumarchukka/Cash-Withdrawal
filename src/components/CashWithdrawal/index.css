@@ -1,0 +1,86 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 50px;
+  padding-left: 500px;
+}
+
+.text-container {
+  background-color: #150b3e;
+  width: 450px;
+  height: 500px;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+.letter-bg {
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 50px;
+  border-radius: 80px;
+  text-align: center;
+  padding-top: px;
+}
+
+.name {
+  font-family: 'Roboto';
+  color: #d4d2db;
+  font-size: 18px;
+  margin-left: 30px;
+}
+
+.name-container {
+  display: flex;
+}
+
+.letter {
+  font-family: 'Roboto';
+  color: #7c3aed;
+}
+
+.your-balance {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.amount {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.in-rupees {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.your-balance-container {
+  display: flex;
+}
+
+.amount-container {
+  margin-left: auto;
+}
+
+.withdraw {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+
+.choose-sum {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
